@@ -1,8 +1,20 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js",
+  "/about/page": "app/about/page.js",
   "/blogs/page": "app/blogs/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/investors/annual-reports/page": "app/investors/annual-reports/page.js",
+  "/investors/financial-results/page": "app/investors/financial-results/page.js",
+  "/investors/important-notifications/page": "app/investors/important-notifications/page.js",
+  "/investors/important-updates/page": "app/investors/important-updates/page.js",
+  "/legal/disclaimer/page": "app/legal/disclaimer/page.js",
+  "/legal/privacy/page": "app/legal/privacy/page.js",
+  "/legal/terms/page": "app/legal/terms/page.js",
+  "/page": "app/page.js",
   "/services/institutional-trading/page": "app/services/institutional-trading/page.js",
+  "/services/insurance/page": "app/services/insurance/page.js",
+  "/services/investment-banking/page": "app/services/investment-banking/page.js",
   "/services/portfolio-management/page": "app/services/portfolio-management/page.js",
+  "/sitemap/page": "app/sitemap/page.js",
   "/blogs/[id]/page": "app/blogs/[id]/page.js"
 }
