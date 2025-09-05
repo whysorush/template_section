@@ -1,0 +1,324 @@
+{
+  "hero": "https://www.growthally.org/wp-content/uploads/2022/01/Growthally.png",
+  "about": "https://www.growthally.org/wp-content/uploads/2022/01/About-Growthally.png",
+  "services": [
+    "https://www.growthally.org/wp-content/uploads/2022/01/Services.png",
+    "https://www.growthally.org/wp-content/uploads/2022/01/Mergers-Acquisitions-1-7.png"
+  ],
+  "team_image": "https://www.growthally.org/wp-content/uploads/2021/12/events-1.png",
+  "life": "https://www.growthally.org/wp-content/uploads/2022/02/funding-invest-financial-money-budget-concept-1024x594.jpg",
+  "favicon": "https://www.growthally.org/wp-content/uploads/2021/12/cropped-Untitled-design-4-32x32.png",
+  "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+  "video": "https://www.youtube.com/watch?v=LPF3XSIJZgE",
+  "clients_logo": [
+    "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+    "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+    "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png"
+  ],
+  "active_transaction": [
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "TechCorp Industries",
+      "deal_type": "Debt Syndication",
+      "amount": "₹40 Cr"
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "Pharma Solutions Ltd",
+      "deal_type": "Equity Funding",
+      "amount": "₹25 Cr"
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "Manufacturing Hub",
+      "deal_type": "M&A Advisory",
+      "amount": "₹60 Cr"
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "Green Energy Corp",
+      "deal_type": "Structured Finance",
+      "amount": "₹35 Cr"
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "FinTech Startup",
+      "deal_type": "Series A Funding",
+      "amount": "₹18 Cr"
+    }
+  ],
+  "completed_transactions": [
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "Steel Manufacturing Co.",
+      "deal_type": "Debt Syndication",
+      "amount": "₹45 Cr",
+      "sector": "Manufacturing",
+      "completed_date": "Q1 2025",
+      "description": "Structured debt facility for capacity expansion and working capital requirements."
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "HealthTech Solutions",
+      "deal_type": "Series B Funding",
+      "amount": "₹30 Cr",
+      "sector": "Healthcare Technology",
+      "completed_date": "Q4 2024",
+      "description": "Growth capital for digital health platform expansion across tier-2 cities."
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "Agri-Processing Unit",
+      "deal_type": "M&A Advisory",
+      "amount": "₹65 Cr",
+      "sector": "Agriculture",
+      "completed_date": "Q3 2024",
+      "description": "Strategic acquisition advisory for consolidation in food processing sector."
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "Logistics Network Pvt",
+      "deal_type": "Private Equity",
+      "amount": "₹28 Cr",
+      "sector": "Logistics",
+      "completed_date": "Q2 2024",
+      "description": "PE investment for last-mile delivery network expansion."
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "EdTech Platform",
+      "deal_type": "Growth Capital",
+      "amount": "₹22 Cr",
+      "sector": "Education Technology",
+      "completed_date": "Q1 2024",
+      "description": "Funding for AI-powered learning platform development and market expansion."
+    },
+    {
+      "logo": "https://www.growthally.org/wp-content/uploads/2022/01/cropped-cropped-Untitled-design-21.png",
+      "company_name": "Renewable Energy Co.",
+      "deal_type": "Project Financing",
+      "amount": "₹85 Cr",
+      "sector": "Renewable Energy",
+      "completed_date": "Q4 2023",
+      "description": "Solar project financing with innovative green bond structuring."
+    }
+  ],
+  "life_gallery": [
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=LPF3XSIJZgE",
+      "thumbnail": "https://www.growthally.org/wp-content/uploads/2022/02/funding-invest-financial-money-budget-concept-1024x594.jpg",
+      "title": "Team Building Summit 2024"
+    },
+    {
+      "type": "image",
+      "url": "https://www.growthally.org/wp-content/uploads/2021/12/events-1.png",
+      "title": "Annual Conference Mumbai"
+    },
+    {
+      "type": "image", 
+      "url": "https://www.growthally.org/wp-content/uploads/2022/02/funding-invest-financial-money-budget-concept-1024x594.jpg",
+      "title": "Client Success Celebration"
+    },
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=LPF3XSIJZgE",
+      "thumbnail": "https://www.growthally.org/wp-content/uploads/2022/01/About-Growthally.png",
+      "title": "Office Tour & Culture"
+    }
+  ],
+"team_members": [
+    {
+      "name": "Ravi Jaisalmeria",
+      "position": "Director & Co-Founder",
+      "image": "https://www.growthally.org/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-21-at-18.28.36.jpeg",
+      "bio": "Over 15 years of experience in investment banking and corporate finance. Former VP at ICICI Bank.",
+      "linkedin": "https://linkedin.com/in/ravi-jaisalmeria"
+    },
+    {
+      "name": "Bhupinder Narendra Garg",
+      "position": "Director & Financial Strategist",
+      "image": "https://www.growthally.org/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-21-at-18.28.36.jpeg",
+      "bio": "Expert in debt syndication and structured finance with 12+ years at leading financial institutions.",
+      "linkedin": "https://linkedin.com/in/bhupinder-garg"
+    },
+    {
+      "name": "Shekhar Shrawankumar Bhuwania",
+      "position": "Director & M&A Specialist",
+      "image": "https://www.growthally.org/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-21-at-18.28.36.jpeg",
+      "bio": "Specializes in mergers, acquisitions, and private equity with extensive experience in cross-border transactions.",
+      "linkedin": "https://linkedin.com/in/shekhar-bhuwania"
+    }
+  ],
+  "services_detailed": [
+    {
+      "title": "Debt Syndication",
+      "description": "Comprehensive debt structuring and syndication services for optimal funding solutions.",
+      "icon": "💰"
+    },
+    {
+      "title": "CFO Services",
+      "description": "Outsourced CFO services providing strategic financial leadership and planning.",
+      "icon": "📊"
+    },
+    {
+      "title": "Mergers & Acquisitions",
+      "description": "End-to-end M&A advisory services from valuation to deal closure.",
+      "icon": "🤝"
+    },
+    {
+      "title": "Private Equity Support",
+      "description": "Strategic advisory for private equity investments and portfolio management.",
+      "icon": "📈"
+    },
+    {
+      "title": "Mortgage Solutions",
+      "description": "Flexible mortgage solutions with regulatory compliance and cost optimization.",
+      "icon": "🏢"
+    },
+    {
+      "title": "Financial Restructuring",
+      "description": "Expert guidance for distressed asset restructuring and financial recovery.",
+      "icon": "🔄"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Navigating Debt Syndication in 2025",
+      "excerpt": "Key strategies for securing optimal debt structures in the current market environment.",
+      "author": "Ravi Jaisalmeria",
+      "date": "August 15, 2025",
+      "image": "https://www.growthally.org/wp-content/uploads/2022/02/funding-invest-financial-money-budget-concept-1024x594.jpg",
+      "content": "In today's dynamic financial landscape, debt syndication has become increasingly complex yet more critical than ever for businesses seeking growth capital. The traditional approaches to debt structuring are evolving, driven by regulatory changes, market volatility, and shifting lender preferences.\n\nKey Considerations for 2025:\n\n1. **Digital Documentation**: The shift towards digital loan documentation has accelerated post-pandemic. Lenders now expect comprehensive digital due diligence packages, making data room preparation more crucial than ever.\n\n2. **ESG Compliance**: Environmental, Social, and Governance factors are no longer optional. Lenders are increasingly incorporating ESG criteria into their lending decisions, making sustainability reporting essential.\n\n3. **Alternative Lending Sources**: Traditional banks are no longer the only game in town. NBFCs, private credit funds, and fintech lenders offer diverse options with varying terms and requirements.\n\n4. **Interest Rate Volatility**: With fluctuating interest rates, businesses must be strategic about timing and structure. Fixed vs. floating rate decisions can significantly impact long-term cost of capital.\n\nAt Growthally, we've successfully syndicated over ₹500 crores in debt across various sectors, helping our clients navigate these complexities while securing optimal terms. Our approach combines deep market knowledge with strong lender relationships, ensuring our clients get the best possible outcomes.\n\nThe key to successful debt syndication lies in preparation, presentation, and partnership. We work closely with our clients to tell their story compellingly while structuring deals that meet both borrower needs and lender requirements."
+    },
+    {
+      "id": 2,
+      "title": "The Rise of Alternative Funding for SMEs",
+      "excerpt": "Exploring new funding avenues beyond traditional banking for small and medium enterprises.",
+      "author": "Bhupinder Garg",
+      "date": "August 10, 2025",
+      "image": "https://www.growthally.org/wp-content/uploads/2022/01/Services.png",
+      "content": "Small and Medium Enterprises (SMEs) in India are experiencing a funding revolution. Traditional bank lending, while still important, is no longer the sole avenue for business growth capital. This shift presents both opportunities and challenges for SME owners seeking to scale their operations.\n\n**The New Funding Landscape:**\n\nDigital lending platforms have democratized access to capital, offering faster processing times and more flexible terms than traditional banks. However, this convenience often comes with higher interest rates and shorter repayment periods.\n\nPrivate credit funds are emerging as serious alternatives, particularly for established SMEs with strong cash flows. These funds often provide more patient capital and flexible structures compared to traditional lenders.\n\n**Sectoral Considerations:**\n\nManufacturing SMEs benefit from asset-backed lending options, including equipment financing and invoice discounting. Technology companies, on the other hand, can explore revenue-based financing and venture debt options.\n\nThe pharmaceutical sector, given its long development cycles, requires specialized funding structures that account for regulatory timelines and clinical trial costs.\n\n**Strategic Approach:**\n\nSuccessful SME funding requires a multi-pronged approach. We recommend maintaining relationships with multiple funding sources while building strong financial documentation and reporting systems.\n\nAt Growthally, we've helped over 200 SMEs secure funding through various channels, ensuring they get the right type of capital at the right cost for their specific growth stage and sector requirements."
+    },
+    {
+      "id": 3,
+      "title": "M&A Trends Shaping 2025",
+      "excerpt": "Current merger and acquisition trends and their impact on mid-market deals in India.",
+      "author": "Shekhar Bhuwania",
+      "date": "August 5, 2025",
+      "image": "https://www.growthally.org/wp-content/uploads/2022/01/Mergers-Acquisitions-1-7.png",
+      "content": "The Indian M&A landscape in 2025 is characterized by strategic consolidation, technology-driven transactions, and increasing focus on sustainable business models. Mid-market deals, particularly in the ₹50-500 crore range, are seeing unprecedented activity.\n\n**Key Trends Observed:**\n\n**1. Technology Integration:** Traditional businesses are acquiring tech startups to digitize their operations. We're seeing manufacturing companies acquire logistics tech firms, and financial services companies investing in fintech startups.\n\n**2. Succession Planning:** Family-owned businesses are increasingly open to strategic partnerships and partial exits as founders look toward succession planning. This trend is particularly strong in the manufacturing and trading sectors.\n\n**3. Cross-Border Interest:** International investors are showing renewed interest in Indian mid-market companies, particularly in sectors like pharmaceuticals, IT services, and renewable energy.\n\n**4. Distressed Asset Opportunities:** The post-pandemic recovery has created opportunities for strategic buyers to acquire quality assets at attractive valuations.\n\n**Valuation Considerations:**\n\nCurrent market conditions favor buyers, with valuation multiples stabilizing after the highs of 2021-2022. However, quality companies with strong fundamentals continue to command premium valuations.\n\nDue diligence processes have become more rigorous, with increased focus on ESG compliance, cybersecurity, and business continuity planning.\n\n**Strategic Insights:**\n\nFor sellers, preparation is key. Companies that invest in professional financial reporting, legal compliance, and strategic planning fetch better valuations and complete transactions more smoothly.\n\nBuyers are increasingly looking for companies with recurring revenue models, strong management teams, and clear growth strategies.\n\nAt Growthally, our M&A advisory services have facilitated transactions worth over ₹800 crores, helping both buyers and sellers navigate this complex landscape while maximizing value for all stakeholders."
+    }
+  ],
+  "company_info": {
+    "name": "Growthally Advisors Pvt Ltd",
+    "tagline": "Your Strategic Financial Partner",
+    "established": "July 30, 2010",
+    "cin": "U74999MH2010PTC206104",
+    "locations": {
+      "mumbai": {
+        "address": "21A, Vasudev Chambers, Old Nagardas Cross Lane, Near Andheri Subway, Andheri East, Mumbai – 400069, Maharashtra, India",
+        "phone": "+91 75062 36027"
+      },
+      "delhi": {
+        "address": "D-251, 1st Floor, Street No. 10, Laxmi Nagar, Delhi – 110092"
+      }
+    },
+    "email": "info@growthally.org"
+  },
+  "testimonials": [
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/VIDEO_ID_1",
+      "thumbnail": "https://www.growthally.org/wp-content/uploads/2022/02/client-testimonial-1.jpg",
+      "title": "Success Story: Manufacturing Growth",
+      "client_name": "Rajesh Kumar",
+      "position": "CEO, TechCorp Industries",
+      "company_logo": "https://www.growthally.org/wp-content/uploads/2022/01/client-logo-1.png"
+    },
+    {
+      "type": "text",
+      "content": "Growthally's strategic approach to debt syndication helped us secure optimal funding for our expansion. Their team's expertise and network made the entire process smooth and efficient.",
+      "client_name": "Priya Sharma",
+      "position": "CFO, Pharma Solutions Ltd",
+      "image": "https://www.growthally.org/wp-content/uploads/2022/02/client-2.jpg",
+      "company_logo": "https://www.growthally.org/wp-content/uploads/2022/01/client-logo-2.png"
+    },
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/VIDEO_ID_2",
+      "thumbnail": "https://www.growthally.org/wp-content/uploads/2022/02/client-testimonial-2.jpg",
+      "title": "M&A Success: Healthcare Sector",
+      "client_name": "Amit Patel",
+      "position": "Director, HealthTech Solutions",
+      "company_logo": "https://www.growthally.org/wp-content/uploads/2022/01/client-logo-3.png"
+    }
+  ],
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/growthally-advisors-private-limited",
+    "facebook": "https://www.facebook.com/growthallyadvisorspvtltd",
+    "twitter": "https://twitter.com/Growthally_Ltd",
+    "instagram": "https://www.instagram.com/growthallyadvisorspvtltd/",
+    "youtube": "https://www.youtube.com/channel/UC-hKYfy-qSKJUWmOdkKrtcA"
+  },
+  "backgrounds": {
+    "hero": {
+      "images": [
+        "https://www.growthally.org/wp-content/uploads/2022/01/Growthally.png",
+        "https://www.growthally.org/wp-content/uploads/2022/01/About-Growthally.png",
+        "https://www.growthally.org/wp-content/uploads/2022/01/Services.png"
+      ],
+      "effect": "marquee",
+      "speed": 30,
+      "overlay": {
+        "color": "rgba(30, 58, 138, 0.7)",
+        "end_opacity": 0.4
+      }
+    },
+    "services": {
+      "image": "https://www.growthally.org/wp-content/uploads/2022/01/Services.png",
+      "effect": "parallax_fade_unblur",
+      "parallax_speed": -15,
+      "blur_range": [8, 0],
+      "opacity_range": [0, 1]
+    },
+    "why_choose_us": {
+      "image": "https://www.growthally.org/wp-content/uploads/2021/12/events-1.png",
+      "effect": "sticky_slide",
+      "sticky": true,
+      "sticky_height": "120vh",
+      "translate_y_range": [0, -80]
+    },
+    "transactions": {
+      "effect": "parallax_spotlight",
+      "parallax_speed": -10,
+      "spotlight": true
+    },
+    "testimonials": {
+      "images": [
+        "https://www.growthally.org/wp-content/uploads/2021/12/events-1.png",
+        "https://www.growthally.org/wp-content/uploads/2022/02/funding-invest-financial-money-budget-concept-1024x594.jpg",
+        "https://www.growthally.org/wp-content/uploads/2022/01/About-Growthally.png"
+      ],
+      "effect": "cross_fade",
+      "default_image": "https://www.growthally.org/wp-content/uploads/2021/12/events-1.png"
+    },
+    "about": {
+      "image": "https://www.growthally.org/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-21-at-18.28.36.jpeg",
+      "effect": "clip_path_reveal",
+      "clip_path_range": ["inset(100% 0 0 0)", "inset(0 0 0 0)"],
+      "translate_y_range": [40, 0],
+      "opacity_range": [0, 1]
+    },
+    "contact": {
+      "image": "https://www.growthally.org/wp-content/uploads/2022/01/About-Growthally.png",
+      "effect": "parallax_overlay",
+      "parallax_speed": -10,
+      "overlay": {
+        "color": "rgba(0, 0, 0, 0.55)"
+      }
+    }
+  }
+  
+}
